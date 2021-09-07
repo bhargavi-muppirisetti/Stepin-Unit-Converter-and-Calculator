@@ -6,7 +6,7 @@ SRC = src/Stepin-Unit-Converter-and-Calculator.c\
 main.c\
 
 TEST_SRC = src/Stepin-Unit-Converter-and-Calculator.c\
-unity/test_Stepin-Unit-Converter-and-Calculator.c\
+unity/Stepin-Unit-Converter-and-Calculator.c\
 
 INC = -Iinc\
 
